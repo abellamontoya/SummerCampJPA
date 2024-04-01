@@ -1,0 +1,3 @@
+123456789,Juan Pérez,123456789,Calle Principal 123,juan@example.com
+987654321,María González,987654321,Avenida Secundaria 456,maria@example.com
+456789123,Luis García,456789123,Plaza Central 789,luis@example.com
